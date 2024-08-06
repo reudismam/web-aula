@@ -1,0 +1,27 @@
+.principal {
+    width: 30vw;
+    height: 95vh;
+    margin: 10px auto;
+}
+
+.login {
+    border: 1px solid #aaaaaa;
+    width: 100%;
+    height: 70%;
+}
+
+.cadastro {
+    border: 1px solid #aaaaaa;
+    width: 100%;
+    height: 15%;
+    margin-top: 10px;
+}
+
+.login-image {
+    width: 60%;
+    margin: 0 auto;
+}
+
+.login-image img {
+    width: 100%;
+}
